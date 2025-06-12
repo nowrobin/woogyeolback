@@ -23,7 +23,8 @@ app.use(
       "http://localhost:3000",
       "https://wedding-front-xi.vercel.app/",
       "https://woogyeol.vercel.app",
-      "https://woogyeol.site"
+      "https://woogyeol.site",
+      "https://www.woogyeol.site",
     ],
     credentials: true,
     exposedHeaders: ["Authorization"],
